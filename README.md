@@ -1,5 +1,5 @@
 # Bot_Detector
-Detecting bots on Twitter using graphs and Machine (2021) - Code
+Detecting bots on Twitter using graphs and Machine Learning (2021) - Code
 
 ## Summary
 
